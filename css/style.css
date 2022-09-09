@@ -1,3 +1,6 @@
+@import "background.css";
+@import "clock.css";
+
 .hidden {
   display: none;
 }
