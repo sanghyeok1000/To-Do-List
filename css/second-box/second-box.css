@@ -2,3 +2,7 @@
   width: 100vw;
   margin-top: 50px;
 }
+#weather {
+  display: flex;
+  justify-content: flex-end;
+}

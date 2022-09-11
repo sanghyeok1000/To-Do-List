@@ -1,0 +1,17 @@
+.fourth-box {
+  display: flex;
+  width: 100vw;
+  align-items: flex-end;
+}
+.quote {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+.sentence {
+  display: flex;
+  justify-content: center;
+}
+.writer {
+  justify-content: center;
+}

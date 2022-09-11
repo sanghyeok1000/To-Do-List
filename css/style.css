@@ -3,8 +3,10 @@
 
 @import "first-box/first-box.css";
 @import "second-box/second-box.css";
+@import "third-box/third-box.css";
+@import "fourth-box/fourth-box.css";
 .hidden {
-  display: none;
+  visibility: hidden;
 }
 .control {
   width: 100vw;

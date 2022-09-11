@@ -1,10 +1,13 @@
 #login-form {
+  display: flex;
   width: 100vw;
   justify-content: center;
   align-items: center;
 }
 #greeting {
+  display: flex;
   width: 100vw;
   justify-content: center;
   align-items: center;
+  font-size: 30px;
 }
