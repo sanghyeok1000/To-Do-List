@@ -1,17 +1,20 @@
 .fourth-box {
-  display: flex;
   width: 100vw;
-  align-items: flex-end;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 20px;
 }
-.quote {
+#quote {
   display: flex;
   width: 100vw;
   justify-content: center;
 }
 .sentence {
-  display: flex;
+  display: block;
   justify-content: center;
 }
 .writer {
+  display: block;
   justify-content: center;
+  align-items: flex-end;
 }
