@@ -5,16 +5,19 @@
   margin-bottom: 20px;
 }
 #quote {
-  display: flex;
+  display: block;
+  text-align: center;
   width: 100vw;
   justify-content: center;
 }
 .sentence {
   display: block;
   justify-content: center;
+  margin-bottom: 10px;
+  font-size: 20px;
 }
 .writer {
   display: block;
   justify-content: center;
-  align-items: flex-end;
+  font-size: 16px;
 }

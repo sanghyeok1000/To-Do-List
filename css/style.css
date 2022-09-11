@@ -5,6 +5,7 @@
 @import "second-box/second-box.css";
 @import "third-box/third-box.css";
 @import "fourth-box/fourth-box.css";
+
 .hidden {
   visibility: hidden;
 }

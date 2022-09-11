@@ -4,6 +4,9 @@
   justify-content: center;
   align-items: center;
 }
+.login-form__second {
+  margin-left: 10px;
+}
 #greeting {
   display: flex;
   width: 100vw;

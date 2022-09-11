@@ -17,8 +17,9 @@
             maxlength="15"
             type="text"
             placeholder="What is your name?"
+            class="login-form__first"
           />
-          <input type="submit" value="Log In" />
+          <input type="submit" value="Log In" class="login-form__second" />
         </form>
         <h1 id="greeting" class="hidden"></h1>
       </div>
@@ -29,14 +30,17 @@
         </div>
       </div>
       <div class="third-box">
-        <form id="todo-form">
-          <input
-            type="text"
-            placeholder="Write a To do and press Enter"
-            required
-          />
-        </form>
-        <ul id="todo-list"></ul>
+        <div class="third-box__box">
+          <form id="todo-form">
+            <input
+              type="text"
+              placeholder="Write a To do and press Enter"
+              class="todo-form__input"
+              required
+            />
+          </form>
+          <ul id="todo-list"></ul>
+        </div>
       </div>
       <div class="fourth-box">
         <div id="quote">
