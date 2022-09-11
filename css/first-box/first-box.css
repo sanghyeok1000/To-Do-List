@@ -1,0 +1,7 @@
+@import "clock.css";
+@import "login.css";
+
+.first-box {
+  width: 100vw;
+  margin-top: 250px;
+}

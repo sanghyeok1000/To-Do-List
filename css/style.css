@@ -1,6 +1,12 @@
+@import "reset.css";
 @import "background.css";
-@import "clock.css";
 
+@import "first-box/first-box.css";
+@import "second-box/second-box.css";
 .hidden {
   display: none;
+}
+.control {
+  width: 100vw;
+  height: 100vh;
 }

@@ -1,13 +1,14 @@
-.body {
-  display: flex;
-  z-index: 2;
-}
-.background {
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100vw;
+  width: 100vw;
+  max-height: 100vh;
+  height: 100vh;
   z-index: 0;
 }
-img {
-  height: 100vh;
-  width: 100vw;
+.control {
   position: absolute;
-  display: flex;
+  z-index: 1;
 }
